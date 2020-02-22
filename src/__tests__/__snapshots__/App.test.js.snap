@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App render should render correctly 1`] = `
+<div
+  className="makeStyles-app-1"
+>
+  <div
+    className="makeStyles-appCore-2"
+  >
+    <Calculator />
+  </div>
+</div>
+`;
